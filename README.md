@@ -1,20 +1,20 @@
 # APOE-CR Project
 
-This repository contains analysis code for the APOE-CR project, examining the effects of APOE genotype and caloric restriction on multiple biological systems.
+This repository contains analysis code for the APOE-CR project, examining how human APOE genotypes modulate caloric restriction effects against aging in the brain and periphery.
 
 ## Project Structure
 
 The repository is organized into the following directories:
 
-1. **1-Brain bulk RNAseq**: Contains brain bulk RNA sequencing data and analysis
-2. **2-Brain lipidome**: Contains brain lipidome analysis
-3. **3-Serum lipidome**: Contains serum lipidome analysis
-4. **4-Gut microbiome**: Contains gut microbiome data and analysis
+1. **Brain bulk RNAseq**: Contains brain bulk RNA sequencing data analysis and visualization
+2. **Brain lipidome**: Contains brain lipidome analysis and visualization
+3. **Serum lipidome**: Contains serum lipidome analysis and visualization
+4. **Gut microbiome**: Contains gut microbiome data analysis and visualization
 
 ## Overview
 
-This project investigates the interactions between APOE genotype and caloric restriction, focusing on their combined effects on brain transcriptomics, brain lipidome, serum lipidome, and gut microbiome composition.
+This project investigates the human APOE genotype-dependent effects of caloric restriction on the brain transcriptomics, brain lipidome, serum lipidome, and gut microbiome composition in the aged mice.
 
 ## Contact
 
-For questions or collaboration inquiries, please contact [zhaolab.ad@gmail.com](mailto:zhaolab.ad@gmail.com).
+For questions or collaboration inquiries, please contact qiao.wenhui@mayo.edu, or zhaolab.ad@gmail.com.
