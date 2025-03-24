@@ -1,0 +1,3 @@
+•	 profile_sample.sh: script for processing the samples as array jobs on SGE
+•	merge_output.R: script for merging the output files from profile_sample.sh
+•	run_zicoseq_and_pcoa.R: script that runs zicoseq (including creating the excel file) + creates the pcoa plots. I double-checked and tested to make sure it reproduces the figures and data in your previous attachment.
